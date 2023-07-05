@@ -13,7 +13,7 @@ const Header = () => {
       <div className="container">
         <div className="col-3 p-0">
           <a className="navbar-brand" style={{ marginLeft: "20px" }} href="#">
-          Admin Panel Authentication
+          Admin Panel 
           </a>
         </div>
 
