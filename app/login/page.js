@@ -80,13 +80,7 @@ const Login = () => {
                 <i className="fab fa-google"></i>
               </button>
 
-              <button
-                type="button"
-                className="btn btn-link btn-floating-mx-1"
-                onClick={() => signIn("github")}
-              >
-                <i className="fab fa-github"></i>
-              </button>
+             
             </div>
           </form>
         </div>
